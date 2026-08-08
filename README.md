@@ -134,16 +134,6 @@ Processed telecom customer data using Python, Pandas, and NumPy. Performed EDA t
 
 ---
 
-### 📅 Contribution Graph
-
-<div align="center">
-
-<img width="90%" src="https://ghchart.rshah.org/2EA0FF/Sonukumar12jan" alt="Sonu's GitHub contribution chart"/>
-
-</div>
-
----
-
 ### 📊 Activity Graph
 
 <div align="center">
@@ -162,17 +152,7 @@ Processed telecom customer data using Python, Pandas, and NumPy. Performed EDA t
 
 </div>
 
-### 💬 Ask Me About
-
-<div align="center">
-
-![Data Cleaning](https://img.shields.io/badge/-Data_Cleaning-7C3AED?style=flat-square)
-![Dashboards](https://img.shields.io/badge/-Dashboards-7C3AED?style=flat-square)
-![EDA](https://img.shields.io/badge/-Exploratory_Data_Analysis-7C3AED?style=flat-square)
-![SQL Queries](https://img.shields.io/badge/-SQL_Queries-7C3AED?style=flat-square)
-
-</div>
-
+---
 
 <div align="center">
 
