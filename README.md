@@ -138,7 +138,7 @@ Processed telecom customer data using Python, Pandas, and NumPy. Performed EDA t
 
 <div align="center">
 
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=Sonukumar12jan&show_icons=true&hide_border=true&bg_color=1a1b27&title_color=F76E96&icon_color=F76E96&text_color=ffffff&count_private=true" alt="Sonu's GitHub stats"/>
+<img height="200" src="https://github-stats-extended.vercel.app/api?username=Sonukumar12jan&show_icons=true&hide_border=true&bg_color=1a1b27&title_color=F76E96&icon_color=F76E96&text_color=ffffff&count_private=true" alt="Sonu's GitHub stats"/>
 
 </div>
 
@@ -148,7 +148,7 @@ Processed telecom customer data using Python, Pandas, and NumPy. Performed EDA t
 
 <div align="center">
 
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonukumar12jan&layout=pie&hide_border=true&bg_color=1a1b27&title_color=F76E96&text_color=ffffff&langs_count=8" alt="Most used languages"/>
+<img height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sonukumar12jan&layout=pie&hide_border=true&bg_color=1a1b27&title_color=F76E96&text_color=ffffff&langs_count=8" alt="Most used languages"/>
 
 </div>
 
