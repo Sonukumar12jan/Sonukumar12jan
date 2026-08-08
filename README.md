@@ -22,7 +22,7 @@
 
 ---
 
-### `whoami`
+### `About me`
 
 ```yaml
 I am Sonu Kumar, an aspiring Data Analyst holding a Master of Computer Application degree,
