@@ -25,7 +25,11 @@
 ### `whoami`
 
 ```yaml
-I am Sonu Kumar, an aspiring Data Analyst holding a Master of Computer Application degree, with practical proficiency in Excel, SQL, Python, and Power BI. My areas of interest include data cleaning, data analysis, and dashboard development, with a focus on transforming raw data into meaningful, actionable insights that support informed business decisions. I am committed to continuous learning and professional growth within the field of data analytics.
+I am Sonu Kumar, an aspiring Data Analyst holding a Master of Computer Application degree,
+with practical proficiency in Excel, SQL, Python, and Power BI. My areas of interest include data cleaning,
+data analysis, and dashboard development, with a focus on transforming raw data into meaningful,
+actionable insights that support informed business decisions. I am committed to continuous learning
+and professional growth within the field of data analytics.
 ```
 
 ---
