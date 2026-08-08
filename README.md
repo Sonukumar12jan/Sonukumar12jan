@@ -84,22 +84,57 @@ Processed telecom customer data using Python, Pandas, and NumPy. Performed EDA t
 
 ---
 
-### 📈 GitHub Stats
+### 🔥 Streak Stats
 
 <div align="center">
 
 <img height="160" src="https://streak-stats.demolab.com/?user=Sonukumar12jan&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Sonukumar12jan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+
+</div>
+
+---
+
+### 📅 Contribution Graph
+
+<div align="center">
+
+<img width="90%" src="https://ghchart.rshah.org/2EA0FF/Sonukumar12jan" alt="Sonu's GitHub contribution chart"/>
+
+</div>
+
+---
+
+### 📊 Activity Graph
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sonukumar12jan&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph"/>
+
+</div>
+
+---
+
+### 🧠 Top Languages
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonukumar12jan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
+
+</div>
+
+---
+
+### 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sonukumar12jan&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub trophies"/>
 
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Sonukumar12jan/Sonukumar12jan/snake-output/snake.svg" alt="Snake animation" width="100%"/>
-
-<br/><br/>
 
 <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Hi.gif" width="30px" alt="waving hand"/> Thanks for stopping by — let's build something with data!
 
