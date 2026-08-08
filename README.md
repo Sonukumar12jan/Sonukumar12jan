@@ -124,7 +124,7 @@ Processed telecom customer data using Python, Pandas, and NumPy. Performed EDA t
 
 ---
 
-### 🔥 Streak Stats & GitHub Overview
+### 🔥 Streak & Stats
 
 <div align="center">
 
