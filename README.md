@@ -162,20 +162,6 @@ Processed telecom customer data using Python, Pandas, and NumPy. Performed EDA t
 
 </div>
 
----
-
-### 🎯 Currently Learning
-
-<div align="center">
-
-![Advanced SQL](https://img.shields.io/badge/-Advanced_SQL-blue?style=flat-square)
-![Data Storytelling](https://img.shields.io/badge/-Data_Storytelling-blue?style=flat-square)
-![Cloud Analytics](https://img.shields.io/badge/-Cloud_Analytics-blue?style=flat-square)
-
-</div>
-
----
-
 ### 💬 Ask Me About
 
 <div align="center">
@@ -187,15 +173,6 @@ Processed telecom customer data using Python, Pandas, and NumPy. Performed EDA t
 
 </div>
 
----
-
-### 🎓 Certifications
-
-<!-- Add your certifications below, one per line -->
-- 📌 *Add a certification title, issuer, and link here*
-- 📌 *Add another certification here*
-
----
 
 <div align="center">
 
