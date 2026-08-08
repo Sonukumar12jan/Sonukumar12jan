@@ -22,13 +22,15 @@
 
 ---
 
-### `About me`
+### `whoami`
 
 ```yaml
-I am Sonu Kumar, an aspiring Data Analyst holding a Master of Computer Application degree, with practical proficiency in
-Excel, SQL, Python, and Power BI. My areas of interest include data cleaning, data analysis, and dashboard development,
-with a focus on transforming raw data into meaningful, actionable insights that support informed business decisions.
-I am committed to continuous learning and professional growth within the field of data analytics.
+name: Sonu Kumar
+role: Data Analyst
+education: MCA @ Maharishi Markandeshwar University (2024 - 2026)
+tools: [Python, SQL, Power BI, Excel, Pandas, NumPy]
+focus: Cleaning messy data → finding patterns → building dashboards
+status: Open to Data Analyst internships / entry-level roles
 ```
 
 ---
@@ -152,23 +154,36 @@ Processed telecom customer data using Python, Pandas, and NumPy. Performed EDA t
 
 ---
 
-### 🧠 Top Languages
+### 🎯 Currently Learning
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonukumar12jan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
+![Advanced SQL](https://img.shields.io/badge/-Advanced_SQL-blue?style=flat-square)
+![Data Storytelling](https://img.shields.io/badge/-Data_Storytelling-blue?style=flat-square)
+![Cloud Analytics](https://img.shields.io/badge/-Cloud_Analytics-blue?style=flat-square)
 
 </div>
 
 ---
 
-### 🏆 Trophies
+### 💬 Ask Me About
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sonukumar12jan&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub trophies"/>
+![Data Cleaning](https://img.shields.io/badge/-Data_Cleaning-7C3AED?style=flat-square)
+![Dashboards](https://img.shields.io/badge/-Dashboards-7C3AED?style=flat-square)
+![EDA](https://img.shields.io/badge/-Exploratory_Data_Analysis-7C3AED?style=flat-square)
+![SQL Queries](https://img.shields.io/badge/-SQL_Queries-7C3AED?style=flat-square)
 
 </div>
+
+---
+
+### 🎓 Certifications
+
+<!-- Add your certifications below, one per line -->
+- 📌 *Add a certification title, issuer, and link here*
+- 📌 *Add another certification here*
 
 ---
 
