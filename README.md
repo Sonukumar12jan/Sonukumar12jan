@@ -154,6 +154,16 @@ Processed telecom customer data using Python, Pandas, and NumPy. Performed EDA t
 
 ---
 
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img width="90%" src="https://raw.githubusercontent.com/Sonukumar12jan/Sonukumar12jan/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contribution graph"/>
+
+</div>
+
+---
+
 ### 🎯 Currently Learning
 
 <div align="center">
