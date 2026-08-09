@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=30&pause=1000&color=2EA0FF&background=0D1117&center=true&vCenter=true&width=500&height=70&lines=DATA+%3A+CLEANED;INSIGHTS+%3A+LIVE" alt="status banner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=16&pause=1000&color=2EA0FF&background=0D1117&center=true&vCenter=true&width=700&height=70&lines=DATA+%3A+CLEANED;INSIGHTS+%3A+LIVE" alt="status banner"/>
 
 <br/><br/>
 
@@ -21,8 +21,6 @@
 </div>
 
 ---
-
-### `About me`
 
 ```yaml
 I am Sonu Kumar, an aspiring Data Analyst holding a Master of Computer Application degree, with practical proficiency in
@@ -122,13 +120,17 @@ Processed telecom customer data using Python, Pandas, and NumPy. Performed EDA t
 
 ---
 
-### 🔥 Streak & Stats
+### 🔥 Streak Stats & GitHub Overview
 
 <div align="center">
 
-<img height="200" src="https://streak-stats.demolab.com/?user=Sonukumar12jan&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
+<img height="160" src="https://streak-stats.demolab.com/?user=Sonukumar12jan&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
+
+<br/><br/>
 
 <img height="200" src="https://github-stats-extended.vercel.app/api?username=Sonukumar12jan&show_icons=true&hide_border=true&bg_color=1a1b27&title_color=F76E96&icon_color=F76E96&text_color=ffffff&count_private=true" alt="Sonu's GitHub stats"/>
+<img height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sonukumar12jan&layout=pie&hide_border=true&bg_color=1a1b27&title_color=F76E96&text_color=ffffff&langs_count=8" alt="Most used languages"/>
+
 </div>
 
 ---
@@ -160,3 +162,5 @@ Processed telecom customer data using Python, Pandas, and NumPy. Performed EDA t
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2EA0FF&height=100&section=footer" width="100%" alt="footer banner"/>
 
 </div>
+### `About me`
+
