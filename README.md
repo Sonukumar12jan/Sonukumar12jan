@@ -123,13 +123,13 @@ Processed telecom customer data using Python, Pandas, and NumPy. Performed EDA t
 ### 🔥 Streak Stats & GitHub Overview
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sonukumar12jan&theme=radical" width="100%"/>
-</div>
+<!-- </div>
 <div align="center">
 
 <img height="200" src="https://streak-stats.demolab.com/?user=Sonukumar12jan&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
 
 <img height="200" src="https://github-stats-extended.vercel.app/api?username=Sonukumar12jan&show_icons=true&hide_border=true&bg_color=1a1b27&title_color=F76E96&icon_color=F76E96&text_color=ffffff&count_private=true" alt="Sonu's GitHub stats"/>
-</div>
+</div> -->
 
 ---
 
