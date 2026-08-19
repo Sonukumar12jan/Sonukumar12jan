@@ -21,8 +21,9 @@
 </div>
 
 ---
-
+### About Me
 ```yaml
+
 I am Sonu Kumar, an aspiring Data Analyst holding a Master of Computer Application degree, with practical proficiency in
 Excel, SQL, Python, and Power BI. My areas of interest include data cleaning, data analysis, and dashboard development,
 with a focus on transforming raw data into meaningful, actionable insights that support informed business decisions.
@@ -125,8 +126,7 @@ Processed telecom customer data using Python, Pandas, and NumPy. Performed EDA t
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=arifhaxn&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
-  <img width="100%" src="https://streak-stats.demolab.com/?user=arifhaxn&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Arif's streak" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=arifhaxn&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Arif's streak" />
 </picture>
 
 <!-- Stats + Top languages — side by side -->
