@@ -124,11 +124,6 @@ Processed telecom customer data using Python, Pandas, and NumPy. Performed EDA t
 ### 🔥 Streak Stats & GitHub Overview
 <!-- Streak — full width -->
 
-<div align="center">
-<picture>
-<img width="100%" src="https://streak-stats.demolab.com/?user=arifhaxn&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Arif's streak" />
-</picture>
-
 <!-- Stats + Top languages — side by side -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=arifhaxn&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
